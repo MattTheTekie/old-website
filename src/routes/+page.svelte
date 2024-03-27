@@ -83,7 +83,7 @@
 			<div class="buttons">
 				<button
 					on:click={() =>
-						window.open("https://gitlab.com/suyu-emu/suyu", "_blank", "noopener noreferrer")}
+						window.open("https://git.suyu.dev/suyu/suyu", "_blank", "noopener noreferrer")}
 					class="download">Git Repo</button
 				>
 				<button
