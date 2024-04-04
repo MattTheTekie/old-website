@@ -21,7 +21,7 @@
 			<LogoWithTextHorizontal on:click={() => goto("/")} size={50} />
 		</div>
 		<div class="right">
-			<a href="https://gitlab.com/suyu-emu/suyu" target="_blank" rel="noopener noreferrer">
+			<a href="https://git.suyu.dev/suyu/suyu" target="_blank" rel="noopener noreferrer">
 				<Button class="!p-2" pill={true}>
 					<CodeBranchOutline />
 				</Button>
